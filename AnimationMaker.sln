@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationMaker", "AnimationMaker\AnimationMaker.csproj", "{1561BD43-0E4F-4B2B-A271-880FF8F50F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogame_Utilities", "..\Monogame_Utilities\Monogame_Utilities.csproj", "{35D95197-C20C-4970-9A06-41B08B1D243C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1561BD43-0E4F-4B2B-A271-880FF8F50F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1561BD43-0E4F-4B2B-A271-880FF8F50F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1561BD43-0E4F-4B2B-A271-880FF8F50F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1561BD43-0E4F-4B2B-A271-880FF8F50F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D95197-C20C-4970-9A06-41B08B1D243C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D95197-C20C-4970-9A06-41B08B1D243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D95197-C20C-4970-9A06-41B08B1D243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D95197-C20C-4970-9A06-41B08B1D243C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B78BDFA-7C81-4AB9-90C7-E01C0B94527D}
+	EndGlobalSection
+EndGlobal

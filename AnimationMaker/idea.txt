@@ -1,0 +1,14 @@
+make a AnimationMaker
+can load an image in
+    maybe make a file browser component
+    accept png
+can define each part of an image as a sprite
+    define a rectangle using 
+        maybe dragging
+    name each sprite
+can define animation for defined sprite
+    using named sprite
+    assign transition time between sprite
+    play defined animation
+can save and load said animation
+    an animation consist of a sprite sheet and a animation define
